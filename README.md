@@ -1,4 +1,4 @@
-# spinhack## Tesla Pressure Cooker Project Overview
+## Tesla Pressure Cooker Project Overview
 The "Tesla Pressure Cooker" project aims to revolutionize home cooking with integrated AI and advanced technology. Our hackathon focuses on developing a marketing website for this innovative product.
 
 ## Key Features of the Tesla Pressure Cooker
