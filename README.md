@@ -1,5 +1,11 @@
 ## Tesla Pressure Cooker Project Overview
 The "Tesla Pressure Cooker" project aims to revolutionize home cooking with integrated AI and advanced technology. Our hackathon focuses on developing a marketing website for this innovative product.
+## Team Details:
+Team Name: Genisys
+Team Member 1: Anju Ruth Abraham
+Team Member 2: V.S.Mekha
+Team Member 3: Julienne Brijit Jacob
+Team Member 4: Jesty Jose
 
 ## Key Features of the Tesla Pressure Cooker
 - Nutrient calculation
