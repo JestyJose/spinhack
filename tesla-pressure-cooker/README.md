@@ -25,3 +25,5 @@ The "Tesla Pressure Cooker" project aims to revolutionize home cooking with inte
 - Generative AI tools like ChatGPT, Gemini, MGX, DALL-E, and Bolt New
 - Crucial for ideation, content generation, visual assets, and website code
 - Significantly accelerated design and development process
+
+LINK: https://something-new-spinghack.netlify.app/
