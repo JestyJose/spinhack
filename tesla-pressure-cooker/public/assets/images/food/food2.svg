@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300">
+  <!-- Background -->
+  <rect width="400" height="300" fill="#F5F5F5" />
+  
+  <!-- Plate -->
+  <circle cx="200" cy="150" r="120" fill="#FFFFFF" stroke="#DDDDDD" stroke-width="3"/>
+  
+  <!-- Rice base -->
+  <ellipse cx="200" cy="150" rx="90" ry="70" fill="#F9F2E3" />
+  
+  <!-- Main food - Steamed salmon -->
+  <path d="M150,130 Q200,100 250,130 Q270,150 250,170 Q200,200 150,170 Q130,150 150,130" fill="#FA8072" />
+  
+  <!-- Vegetables -->
+  <circle cx="160" cy="110" r="12" fill="#90EE90" />
+  <circle cx="240" cy="110" r="12" fill="#90EE90" />
+  <circle cx="180" cy="190" r="10" fill="#FF6347" />
+  <circle cx="220" cy="190" r="10" fill="#FF6347" />
+  
+  <!-- Sauce drizzle -->
+  <path d="M170,120 Q180,130 190,120 Q200,115 210,120 Q220,130 230,120" stroke="#FFCC99" stroke-width="3" fill="none" />
+  
+  <!-- Herb garnish -->
+  <path d="M170,100 Q175,90 180,100" stroke="#228B22" stroke-width="2" fill="none" />
+  <path d="M220,100 Q225,90 230,100" stroke="#228B22" stroke-width="2" fill="none" />
+</svg>

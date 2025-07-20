@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300">
+  <!-- Background -->
+  <rect width="400" height="300" fill="#F0F8FF" />
+  
+  <!-- Bowl -->
+  <ellipse cx="200" cy="160" rx="120" ry="50" fill="#FFFFFF" stroke="#DDDDDD" stroke-width="3"/>
+  <path d="M80,160 Q200,240 320,160" fill="#FFFFFF" stroke="#DDDDDD" stroke-width="3" />
+  
+  <!-- Soup -->
+  <ellipse cx="200" cy="160" rx="100" ry="40" fill="#FFF0C9" />
+  
+  <!-- Vegetables and meat in soup -->
+  <circle cx="160" cy="150" r="15" fill="#8B5A2B" /> <!-- Meatball -->
+  <circle cx="210" cy="140" r="15" fill="#8B5A2B" /> <!-- Meatball -->
+  <circle cx="250" cy="160" r="12" fill="#8B5A2B" /> <!-- Meatball -->
+  
+  <path d="M180,170 L190,140 L195,170" stroke="#90EE90" stroke-width="3" fill="none" /> <!-- Green onion -->
+  <path d="M220,180 L230,150 L235,180" stroke="#90EE90" stroke-width="3" fill="none" /> <!-- Green onion -->
+  
+  <circle cx="170" cy="180" r="8" fill="#FFA500" /> <!-- Carrot -->
+  <circle cx="230" cy="170" r="8" fill="#FFA500" /> <!-- Carrot -->
+  
+  <!-- Steam -->
+  <path d="M160,110 Q170,90 180,110" stroke="#FFFFFF" stroke-width="3" fill="none" opacity="0.7" />
+  <path d="M190,100 Q200,80 210,100" stroke="#FFFFFF" stroke-width="3" fill="none" opacity="0.7" />
+  <path d="M220,110 Q230,90 240,110" stroke="#FFFFFF" stroke-width="3" fill="none" opacity="0.7" />
+</svg>
